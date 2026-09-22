@@ -1,22 +1,28 @@
-msgid "wolplus"
-msgstr "网络唤醒++"
+msgid "Wake on LAN"
+msgstr "网络唤醒"
 
-msgid "Wake up your LAN device"
-msgstr "唤醒你的局域网设备"
+msgid "Wake on LAN +"
+msgstr "网络唤醒+"
 
-msgid "macclient"
-msgstr "设备列表"
+msgid "Wake on LAN is a mechanism to remotely boot computers in the local network."
+msgstr "网络唤醒是一种通过远程方式启动局域网内计算机的机制。"
 
-msgid "name"
+msgid "Host Clients"
+msgstr "主机客户端"
+
+msgid "Name"
 msgstr "名称"
 
-msgid "macaddr"
-msgstr "客户端MAC"
+msgid "MAC Address"
+msgstr "MAC 地址"
 
-msgid "maceth"
+msgid "Network Interface"
 msgstr "网络接口"
 
-msgid "awake"
+msgid "Wake Up Host"
+msgstr "唤醒主机"
+
+msgid "Awake"
 msgstr "唤醒"
 
 msgid "Please [Save & Apply] your changes first"

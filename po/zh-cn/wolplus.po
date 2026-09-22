@@ -2,7 +2,7 @@ msgid "Wake on LAN"
 msgstr "网络唤醒"
 
 msgid "Wake on LAN +"
-msgstr "网络唤醒+"
+msgstr "网络唤醒"
 
 msgid "Wake on LAN is a mechanism to remotely boot computers in the local network."
 msgstr "网络唤醒是一种通过远程方式启动局域网内计算机的机制。"
